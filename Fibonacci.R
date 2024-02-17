@@ -16,3 +16,5 @@ print_fibonacci <- function(n) {
 # Example usage
 number_of_terms <- 10
 print_fibonacci(number_of_terms)
+
+print("This is the second commit")
